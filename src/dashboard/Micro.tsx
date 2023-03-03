@@ -64,7 +64,7 @@ export function Micro(){
             cardbody={"₹ 10,000 can be withdrawn through mATM."}
             />
             </div>
-            <Collapse />
+            
             <Footer />
         </div>
     )
