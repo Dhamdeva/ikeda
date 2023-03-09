@@ -281,9 +281,14 @@
     width: 99%;
     overflow-x: hidden;
  }
-.founder img{
-    width:200px !important;
-}.founder .found{
+.founder .mani img{
+    width: 200px;
+}.founder .poor img{
+    width: 137px;
+}.founder .raje img{
+    width: 120px;
+}
+.founder .found{
     font-size: 12px;
 }.founder .card-body:hover{
     position: relative;
@@ -304,6 +309,8 @@
 }.micro p{
     margin: 30px;
     color: #7a7a7a;
+}.mut img{
+    width: 220px !important;
 }
  .micro div{
     border-left: 3px solid#2575fc;

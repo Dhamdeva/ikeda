@@ -10,8 +10,8 @@ export function Creditpay(){
             p={"Service > Credit Pay"}
             />
             <div className="row m-3 py-3">
-                <div className="col-md-8">
-                    <p>Now you can pay your RENT or EMI from your credit card with our Creditpay service. Walk-in to any IKEDA CSP or select merchant establishments, fill in few details and pay your RENT or EMI using Credit Card, anywhere in the country.</p>
+                <div className="col-md-7">
+                    <p>Now you can pay your RENT or EMI from your credit card with our Creditpay service. Walk-in to any PayPe CSP or select merchant establishments, fill in few details and pay your RENT or EMI using Credit Card, anywhere in the country.</p>
                     <h4 className=" py-3">Key Features</h4>
                     <ul><li>Pay instantly</li>
                         <li>Simple to use, Time saving and cost effective platform</li>
@@ -29,8 +29,8 @@ export function Creditpay(){
                         <li>Near doorstep remittance facility</li>
                     </ul>
                 </div>
-                <div className="col-md-4">
-                    <img className="img-fluid" src="https://www.ikedapl.com/wp-content/uploads/2021/10/creditpay.png" alt="." />
+                <div className="col-md-5">
+                    <img className="img-fluid" src="https://www.braintreepayments.com/images/features/payment-methods/payment-methods.png" alt="." />
                 </div>
             </div>
             <Footer />

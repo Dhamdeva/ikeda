@@ -11,8 +11,8 @@ export function Flight(){
             />
             <div className="row m-4">
                 <div className="col-md-8 ">
-                    <p>ikedapl.com is a reliable travel agent of India, which offers great deals on air tickets. Book flights for all destinations across India or world at the lowest airfares with us. As one of the leading travel portals of India, we constantly endeavour to make your vacation memorable. So, why to go anywhere else? Call us to save big on all kinds of travel products and services and have a memorable travel experience in a small budget. We believe in creating awesome vacations for our clients through customized holiday packages & tours. Enjoy great saving on flights, hotels, and holiday trip with Ikedapl.com.</p>
-                    <p>Cheap flights are available at Ikedapl.com, one of the leading travel portals of India. The company offers great discounts on domestic and international flight tickets. Being a reliable name in travel industry of India, we focus on providing smooth flight booking experience to our customers. So, book air tickets at the lowest airfare by planning your trip with us. You can also get all relevant information like how to get the boarding passes, difference between airline tickets and boarding pass tickets, flight status, arrival and departure times of the flights, web check-in and various information one needs to have before traveling.</p>
+                    <p>PayPe.com is a reliable travel agent of India, which offers great deals on air tickets. Book flights for all destinations across India or world at the lowest airfares with us. As one of the leading travel portals of India, we constantly endeavour to make your vacation memorable. So, why to go anywhere else? Call us to save big on all kinds of travel products and services and have a memorable travel experience in a small budget. We believe in creating awesome vacations for our clients through customized holiday packages & tours. Enjoy great saving on flights, hotels, and holiday trip with PayPe.com.</p>
+                    <p>Cheap flights are available at PayPe.com, one of the leading travel portals of India. The company offers great discounts on domestic and international flight tickets. Being a reliable name in travel industry of India, we focus on providing smooth flight booking experience to our customers. So, book air tickets at the lowest airfare by planning your trip with us. You can also get all relevant information like how to get the boarding passes, difference between airline tickets and boarding pass tickets, flight status, arrival and departure times of the flights, web check-in and various information one needs to have before traveling.</p>
                     <p>If you want to book your plane tickets at no convenience fee and looking for transparency in air ticket pricing, we are here to serve you with best possible offers. To reduce your flight booking cost, we have tied up with several banking partners. You can avail the best flight ticket booking deals for all major low-cost carriers of India and abroad with us. Last minute discounts on air ticket booking are also available with us. So, go for a journey of your preferred destinations with the best airfare discounts.</p>
                 <Customer
                 className={'col-md-12'}
@@ -31,7 +31,7 @@ export function Flight(){
                 />
                 </div>
                 <div className="col-md-4">
-                    <img className="img-fluid" src="https://www.ikedapl.com/wp-content/uploads/2021/10/BrandAppMay22.jpeg" alt="." />
+                    <img className="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Boeing_727_flight_control_surfaces.svg/700px-Boeing_727_flight_control_surfaces.svg.png" alt="." />
                 </div>
             </div>
             <Footer />

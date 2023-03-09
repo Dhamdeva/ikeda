@@ -267,7 +267,7 @@ export function Footer(props:any){
             <div className='row'>
             <div className='col-md-3'>
                 <img className='img-fluid col-3 mb-3' src={'https://www.paype.co.in/static/media/Paype%20circle.d66c49586b04e5d30bff.png'} alt='.' />
-                <p className='my-3'>Ikeda Pvt. Ltd. was founded in 2019 with the aim of transcending the gap between physical and digital payments, thus enabling users to perform digital financial transactions using cash.</p>
+                <p className='my-3'>PayPe Pvt. Ltd. was founded in 2019 with the aim of transcending the gap between physical and digital payments, thus enabling users to perform digital financial transactions using cash.</p>
             </div>
             <div className='col-md-3 info my-5'>
                 <h5>OUR INFORMATION</h5>

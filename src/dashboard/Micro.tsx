@@ -10,7 +10,7 @@ export function Micro(){
             h4={"Micro/Mini ATM (mATM)"}
             p={"Home > Service > matm"}
             className={'col-md-4'}
-            img={"https://www.ikedapl.com/wp-content/uploads/2021/11/mATM-White-Icon-1-300x300.png"}
+            img={"https://cdn-icons-png.flaticon.com/512/6276/6276259.png"}
             />
 
             <MicroATM
@@ -18,15 +18,15 @@ export function Micro(){
             className={'col-md-8'}
             h3={"About Micro ATM"}
             h6={"Became an ATM & allow anybody to withdraw money through swiping debit card"}
-            p={"When we run out of cash and need to make a payment, we frequently can’t find an ATM nearby. Ikeda provides a cash withdrawal option through its retail locations to address this issue. Whether it’s making a payment for products or services you’ve purchased or withdrawing cash from a retail establishment, Ikeda’s mPOS/MICRO ATM Device makes it all possible with remarkable ease. By swiping any bank’s Debit/ATM card, you may withdraw up to Rs.10, 000 from this gadget."}
+            p={"When we run out of cash and need to make a payment, we frequently can’t find an ATM nearby. PayPe provides a cash withdrawal option through its retail locations to address this issue. Whether it’s making a payment for products or services you’ve purchased or withdrawing cash from a retail establishment, PayPe’s mPOS/MICRO ATM Device makes it all possible with remarkable ease. By swiping any bank’s Debit/ATM card, you may withdraw up to Rs.10, 000 from this gadget."}
             h4={"What transactions can be done by mATM"}
             li={"Cash Withdrawal (cash out from bank account)"}
             li1={"Balance Check/Enquiry"}
             li2={"Mini Statement"}
             className1={"col-md-4"}
-            img={"https://www.ikedapl.com/wp-content/uploads/2021/11/mAtm-Web-Banner-Nov-24-1x1-1-768x768.jpg"} 
+            img={"https://thumbs.dreamstime.com/b/payment-options-concept-icon-gadget-function-idea-thin-line-illustration-point-sale-terminal-mobile-wallet-cashless-future-198262751.jpg"} 
             />
-            <img className="img-fluid" src="https://www.ikedapl.com/wp-content/uploads/2021/11/mATM-Website_Nov-24_Banner-All-Services-1536x432.jpg" alt="." />
+            <img className="img-fluid " src="https://www.3dspectratech.com/wp-content/uploads/2021/05/a-600x125.jpg" alt="." />
             <div className="row justify-content-around mx-0">
                 <Atmlist 
                 className={"col-md-5 my-4"}
@@ -57,7 +57,7 @@ export function Micro(){
             />
             <Frequently 
             button={"How do I become an mATM agent?"}
-            cardbody={"IKEDA provide mATM Machine and free registration, you can join."}
+            cardbody={"PayPe provide mATM Machine and free registration, you can join."}
             />
             <Frequently 
             button={"What is the maximum amount that can be withdrawn through mATM?"}

@@ -10,7 +10,7 @@ export function Homepage(){
             className1={'col-md-5 space my-5'}
             h1={"Elevating the change in"}
             h4={"Finance Technology Space"}
-            p={"Quickly go live with Ikeda and experience the future of payments with the simplest integration, totally online onboarding, feature-rich checkout, and best-in-class speed. The future of digital payment is here!"}
+            p={"Quickly go live with PayPe and experience the future of payments with the simplest integration, totally online onboarding, feature-rich checkout, and best-in-class speed. The future of digital payment is here!"}
             a={"Login"}
             a1={"Contact Us"}
             className={"col-md-7 my-5"}
@@ -18,21 +18,21 @@ export function Homepage(){
          />
          <div className='ikede my-5'>
             <h1 className="text-center  iket my-5">Service</h1>
-            <h1 className="text-center  ike my-5">Ikeda Business Segments</h1>
+            <h1 className="text-center  ike my-5">PayPe Business Segments</h1>
          </div>
          <div className='row justify-content-evenly atm mx-0 px-0 text-center my-5'>
                 <Atm 
                 className='col-md-5 my-3 aeps'
                 img={"https://www.ikedapl.com/wp-content/uploads/2021/10/Bills_Cards-06-1536x768.png"}
                 h1={"mATM"}
-                p={"Ikeda Pvt. Ltd is a leading service provider of micro ATM. We offer micro ATM service with software and mobile application."}
+                p={"PayPe Pvt. Ltd is a leading service provider of micro ATM. We offer micro ATM service with software and mobile application."}
                 a={"Learn more"}
                 />
                 <Atm 
                 className='col-md-5 my-3 aeps'
                 img={"https://www.ikedapl.com/wp-content/uploads/2021/10/Bills_Cards-07-1536x768.png"}
                 h1={"AEPS"}
-                p={"Ikeda Pvt. Offers Aadhar Enabled Payment software & AEPS API integration services for all your business needs all over India, our AEPS system offers many Feature: Balance Enquiry, Cash .."}
+                p={"PayPe Pvt. Offers Aadhar Enabled Payment software & AEPS API integration services for all your business needs all over India, our AEPS system offers many Feature: Balance Enquiry, Cash .."}
                 a={"Learn more"}
                 />
                 <button className='load p-2 col-3 my-3'><i className="fa-solid fa-arrow-right"></i> Load more</button> 
@@ -42,8 +42,8 @@ export function Homepage(){
          img={"https://media.istockphoto.com/id/182792679/photo/full-length-of-business-colleagues-standing-together-against-white.jpg?s=612x612&w=0&k=20&c=Ca0tului1ZxkAjHY-qWPNN25fmQWMWFsdZlDPZmDGUs="}
          className1={"col-md-7 welcome my-5"}
          h1={"About"}
-         h3={"Welcome to Finance Tech: Ikeda"}
-         p={"Since its inception, Ikeda Pvt. Ltd has been at the frontline of the payments revolution, an attitude that has helped it become a major worldwide leader in payments technology and transaction processing."}
+         h3={"Welcome to Finance Tech: PayPe"}
+         p={"Since its inception, PayPe Pvt. Ltd has been at the frontline of the payments revolution, an attitude that has helped it become a major worldwide leader in payments technology and transaction processing."}
          li={"Founded in 2019, with dedicated team of professionals"}
          li1={"Our team works with an energy and excitement that stems from emotional involvement with the organization, which makes work enjoyable and motivates everyone to do their best."}
          h11={"150K"}
@@ -59,25 +59,25 @@ export function Homepage(){
             class={'col-md-4 item'}
             in={'fa fa-computer p-3 col-3'}
             h5={"Easy to Use "}
-            p={"Create a banking or payments platform that works with both traditional and new channels. Ikeda provides the most extensive set of payment methods, with banking facilities available through UPI, mobile wallets, Debit cards & Credit cards."}
+            p={"Create a banking or payments platform that works with both traditional and new channels. PayPe provides the most extensive set of payment methods, with banking facilities available through UPI, mobile wallets, Debit cards & Credit cards."}
             />
             <Choose 
             class={'col-md-4 item'}
             in={'fa fa-desktop p-3  col-3'}
             h5={"Dashboard "}
-            p={"Ikeda provide An effective and easy business dashboard is a type of business intelligence tool. A dashboard is a type of graphical representation of the KPIs or metrics that impact whether you achieve your business strategy’s goals. "}
+            p={"PayPe provide An effective and easy business dashboard is a type of business intelligence tool. A dashboard is a type of graphical representation of the KPIs or metrics that impact whether you achieve your business strategy’s goals. "}
             />
             <Choose 
             class={'col-md-4 item'}
             in={'fa fa-handshake p-3 col-3'}
             h5={"Designed for Developers "}
-            p={"APIs, plugins, and libraries that are robust, clean, and developer friendly for all major languages and platforms, allowing you to focus on creating exceptional things, because for Ikeda your safe payment is our top most priority.  "}
+            p={"APIs, plugins, and libraries that are robust, clean, and developer friendly for all major languages and platforms, allowing you to focus on creating exceptional things, because for PayPe your safe payment is our top most priority.  "}
             />
             <Choose 
             class={'col-md-4 item'}
             in={'fa fa-file p-3 col-3'}
             h5={" Report"}
-            p={"Ikeda provide daily, weekly, monthly and yearly reports like daily Financial transaction, payment details, your order details and many more "}
+            p={"PayPe provide daily, weekly, monthly and yearly reports like daily Financial transaction, payment details, your order details and many more "}
             />
             <Choose 
             class={'col-md-4 item'}
@@ -147,21 +147,21 @@ export function Homepage(){
           <div className='d-flex my-3 py-3 testimonial '>
             <Bank 
             class={"col-10"}
-            p={"“Services in Ikeda is really good and the best part of Ikeda is support service is best.”"}
+            p={"“Services in PayPe is really good and the best part of PayPe is support service is best.”"}
             img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
-            p={"“Services in Ikeda is really good and the best part of Ikeda is support service is best.”"}
+            p={"“Services in PayPe is really good and the best part of PayPe is support service is best.”"}
             img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
-            p={"“Services in Ikeda is really good and the best part of Ikeda is support service is best.”"}
+            p={"“Services in PayPe is really good and the best part of PayPe is support service is best.”"}
             img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}

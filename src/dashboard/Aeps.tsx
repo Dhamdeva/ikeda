@@ -8,10 +8,10 @@ export function Aeps(){
             class={"row recharge-text"}
             className1={"col-md-7 my-5 px-5"}
             h4={"AADHAAR ENABLED PAYMENT SYSTEM (Aeps)"}
-            p={"Ikeda AEPS service enables our customers for hassle free, secure and biometric authenticated cash withdraw, balance enquiry and mini statement from their UIDAI linked bank account"}
+            p={"PayPe AEPS service enables our customers for hassle free, secure and biometric authenticated cash withdraw, balance enquiry and mini statement from their UIDAI linked bank account"}
             p1={"Home > Service > Aeps"}
             className={"col-md-5"} 
-            img={"https://www.ikedapl.com/wp-content/uploads/2021/11/AEPS-White1-300x300.png"}
+            img={"https://www.payworldindia.com/wp-content/uploads/2022/02/aeps.png"}
             />
             <div className="row m-3">
                 <div className="col-md-7">
@@ -27,14 +27,14 @@ export function Aeps(){
                             <li>Fingerprint captured during enrollment.</li>
                         </ol>
                     </ul>
-                    <p>Ikeda is <strong>Aeps service provider company</strong> with a robust platform for Aadhaar Payment System, which allows online interoperable financial transactions at PoS (Point of Sale). IKEDA <strong> AePS Cash Withdrawal</strong> is often paired with an Aadhaar biometric device which is used to authenticate the transaction.</p>
+                    <p>PayPe is <strong>Aeps service provider company</strong> with a robust platform for Aadhaar Payment System, which allows online interoperable financial transactions at PoS (Point of Sale). PayPe <strong> AePS Cash Withdrawal</strong> is often paired with an Aadhaar biometric device which is used to authenticate the transaction.</p>
                     <p>Aadhaar Fingerprint Scanner and Aadhar Iris Scanner are most used to authenticate the biometric information of a person.</p>
                 </div>
                 <div className="col-md-5">
-                    <img className="img-fliud" src="https://www.ikedapl.com/wp-content/uploads/2021/11/Web-Banner-1024x1024.jpg" alt="." width={'100%'} />
+                    <img className="img-fliud" src="https://cdn.telanganatoday.com/wp-content/uploads/2022/06/Aadhar.jpg" alt="." width={'100%'} />
                 </div>
             </div>
-            <img className="img-fluid" src="https://www.ikedapl.com/wp-content/uploads/2021/11/iKeda-Website_Nov-23_All-Banner_2-1536x432.jpg" alt="." />
+            <img className="img-fluid" src="https://selftechnology.in/wp-content/uploads/2021/02/aeps.png" alt="." />
             <div className="row justify-content-around my-5">
                 <div className="col-md-5">
                     <h3>Banking Services Offered by AePS</h3>
@@ -56,7 +56,7 @@ export function Aeps(){
             <h3>Frequently Asked Questions (FAQs)</h3>
             <Frequently
             button={"What is AEPS?"}
-            cardbody={"AePs means Aadhaar Enabled Payment System, a new payment service offered by the NPCI to banks and financial institutions using ‘Aadhaar’.Aadhaar is a unique identification number issued by the UIDAI.In banking AEPS means empowerment where the provider allows a bank customer to use Aadhaar as his/her identity to access his/ her respective Aadhaar enabled bank account and perform basic intrernat banking, like Balance Enquiry, Cash Deposit, Cash Withdrawal.For all transactions, retailers ask for customers Aadhaar number and scan customer’s fingerprint using a biometric scanner attached to IKEDA Portal AEPS Software. A transaction will be successful only when the Aadhaar authentication is successful."}
+            cardbody={"AePs means Aadhaar Enabled Payment System, a new payment service offered by the NPCI to banks and financial institutions using ‘Aadhaar’.Aadhaar is a unique identification number issued by the UIDAI.In banking AEPS means empowerment where the provider allows a bank customer to use Aadhaar as his/her identity to access his/ her respective Aadhaar enabled bank account and perform basic intrernat banking, like Balance Enquiry, Cash Deposit, Cash Withdrawal.For all transactions, retailers ask for customers Aadhaar number and scan customer’s fingerprint using a biometric scanner attached to PayPe Portal AEPS Software. A transaction will be successful only when the Aadhaar authentication is successful."}
             />
             <Frequently
             button={"Is there any charges for Aeps?"}
@@ -72,11 +72,11 @@ export function Aeps(){
             />
             <Frequently
             button={"Which Aeps service best?"}
-            cardbody={"IKEDA's AePS service is best in whole India."}
+            cardbody={"PayPe's AePS service is best in whole India."}
             />
             <Frequently
             button={"How do I become an AEPS agent?"}
-            cardbody={"IKEDA provide free AePS registration, you can join."}
+            cardbody={"PayPe provide free AePS registration, you can join."}
             />
             <Footer />
         </div>

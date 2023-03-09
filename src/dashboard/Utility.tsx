@@ -28,7 +28,7 @@ export function Utility(){
                 />
                 </div>
                 <div className="col-md-4">
-                    <img className="img-fluid" src="https://www.ikedapl.com/wp-content/uploads/2021/10/LightBill.png" alt="." />
+                    <img className="img-fluid" src="https://www.paisabazaar.com/wp-content/uploads/2021/03/feature-image.jpg" alt="." />
                 </div>
             </div>
             <Footer />

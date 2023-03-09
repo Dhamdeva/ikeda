@@ -14,11 +14,11 @@ export function Aboutus(){
             class={'row tech my-5'} 
             className1={"col-md-5"}
             h6={"WELCOME TO"}
-            h1={"Ikeda Pvt Ltd"}
-            p={'Since its inception, Ikeda Pvt. Ltd has been at the frontline of the payments revolution, an attitude that has helped it become a major worldwide leader in payments technology and transaction processing. We have been a genuine leader in the area, from developing next-generation payment gateways to mobile-based collections and payments systems AEPS & UPI.'}
+            h1={"PayPe Pvt Ltd"}
+            p={'Since its inception, PayPe Pvt. Ltd has been at the frontline of the payments revolution, an attitude that has helped it become a major worldwide leader in payments technology and transaction processing. We have been a genuine leader in the area, from developing next-generation payment gateways to mobile-based collections and payments systems AEPS & UPI.'}
             p1={'We assist our clients redraw the payment landscape by offering a value proposition of large-scale, social payments that are sensitive to market demand and have a lower cost of ownership. As a result, they have a well-defined strategy that will help them gain a large market share in the digital transaction ecosystem.'}
             className={"col-md-7"}
-            img={'https://www.ikedapl.com/wp-content/uploads/2021/09/IMG-20210811-WA0000-1536x1023-1-768x512.jpg'}
+            img={'https://herald.uohyd.ac.in/wp-content/uploads/2022/11/t-hub1-1280x640.jpg'}
             />
             <div className="row justify-content-around  vision my-5 mx-0">
                 <Customer 
@@ -38,7 +38,7 @@ export function Aboutus(){
                 class={"col-md-3 account"}
                 in={"fa fa-trophy p-3 col-3 "}
                 h5={"Intergrity"}
-                p={"We are open and honest, and we always do the right thing. For digital payment service providers, a complete business software solution is available at Ikeda Pvt. Ltd."}
+                p={"We are open and honest, and we always do the right thing. For digital payment service providers, a complete business software solution is available at PayPe Pvt. Ltd."}
                 />
                 <Choose 
                 class={"col-md-3 account"}
@@ -50,7 +50,7 @@ export function Aboutus(){
                 class={"col-md-3 account"}
                 in={"fa fa-handshake p-3 col-3"}
                 h5={"Customer Centricity"}
-                p={"Customers are always in ourmind whatever we do. Customer centricity is our core focus at Ikeda Pvt. Ltd. We offer 24*7 support, throughout the year. "}
+                p={"Customers are always in ourmind whatever we do. Customer centricity is our core focus at PayPe Pvt. Ltd. We offer 24*7 support, throughout the year. "}
                 />
             </div>
             <div className="text-center history my-5">
@@ -65,21 +65,21 @@ export function Aboutus(){
             <div className='d-flex my-3 py-3 testimonial mt-5'>
             <Bank 
             class={"col-10"}
-            p={"“Services in Ikeda is really good and the best part of Ikeda is support service is best. ”"}
+            p={"“Services in PayPe is really good and the best part of PayPe is support service is best. ”"}
             img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
-            p={"“Services in Ikeda is really good and the best part of Ikeda is support service is best. ”"}
+            p={"“Services in PayPe is really good and the best part of PayPe is support service is best. ”"}
             img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
-            p={"“Services in Ikeda is really good and the best part of Ikeda is support service is best. ”"}
+            p={"“Services in PayPe is really good and the best part of PayPe is support service is best. ”"}
             img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
@@ -94,25 +94,25 @@ export function Aboutus(){
             </div>
             <div className="row text-center justify-content-around mx-0 px-0 founder">
                 <Founders
-                className={'col-md-4 mt-5'}
-                img={"https://www.ikedapl.com/wp-content/uploads/2022/07/Untitled-design-5-1024x1024.png"}
-                h5={"Manish Goyal"}
+                className={'col-md-4 mt-5 mani'}
+                img={"https://www.gtlaw.com/-/media/images/team/b/blum_lee/blum_lee_large.png?rev=71dd6e67744040db95c9e615323b6a70&sc_lang=en"}
+                h5={"Manish"}
                 p={"Founder and MD"}
-                p1={"Manish Goyal is the MD, Founder of Ikeda Private Ltd. and has a proven track record on building and leading technology product and service organization with a key focus on providing top-notch customer service and focus on client relationship management."}
+                p1={"Manish  is the MD, Founder of PayPe Private Ltd. and has a proven track record on building and leading technology product and service organization with a key focus on providing top-notch customer service and focus on client relationship management."}
                 icon={"fa-brands fa-linkedin-in"} />
                 <Founders
-                className={'col-md-4 mt-5'}
-                img={"https://www.ikedapl.com/wp-content/uploads/2022/07/Puran-Sir_New-Images_Jan-31_10-scaled-e1658323855240-945x1024.jpg"}
-                h5={"Puran Puri"}
+                className={'col-md-4 mt-5 poor'}
+                img={"https://visto.ai/wp-content/uploads/2021/11/Josh-removebg-preview.png"}
+                h5={"Pooran"}
                 p={"Co-Founder and CEO"}
-                p1={"A perfect example of leading by example, Puran Puri is responsible for the management of the overall operations and our company related decisions focused on customer’s welfare. He has been recognized as one of the top businessman by several business recognizers."}
+                p1={"A perfect example of leading by example, Pooran  is responsible for the management of the overall operations and our company related decisions focused on customer’s welfare. He has been recognized as one of the top businessman by several business recognizers."}
                 icon={"fa-brands fa-linkedin-in"} />
                 <Founders
-                className={'col-md-4 mt-5'}
-                img={"https://www.ikedapl.com/wp-content/uploads/2022/07/Rajesh-Profile-Images_Sir_001-e1658324111943.png"}
-                h5={"Rajesh Swami"}
+                className={'col-md-4 mt-5 raje'}
+                img={"https://www.bradfordteaching.org/images/uploads/6/315/Luke.png"}
+                h5={"Rajesh"}
                 p={"Co-Founder and CEO"}
-                p1={"Co-Founder Rajesh Swami perfect blend of intelligence and politeness, has a proven track record of leading and building technology related products and service organization. He has a key focus on taking company to the new heights, with the social responsibility always going hand in hand."}
+                p1={"Co-Founder Rajesh perfect blend of intelligence and politeness, has a proven track record of leading and building technology related products and service organization. He has a key focus on taking company to the new heights, with the social responsibility always going hand in hand."}
                 icon={"fa-brands fa-linkedin-in"} />
             </div>
             <Footer />
