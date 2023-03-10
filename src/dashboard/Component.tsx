@@ -267,7 +267,7 @@ export function Footer(props:any){
             <div className='row'>
             <div className='col-md-3'>
                 <img className='img-fluid col-3 mb-3' src={'https://www.paype.co.in/static/media/Paype%20circle.d66c49586b04e5d30bff.png'} alt='.' />
-                <p className='my-3'>PayPe Pvt. Ltd. was founded in 2019 with the aim of transcending the gap between physical and digital payments, thus enabling users to perform digital financial transactions using cash.</p>
+                <p className='my-3'>PayPe Pvt. Ltd. was founded in 2022 with the aim of transcending the gap between physical and digital payments, thus enabling users to perform digital financial transactions using cash.</p>
             </div>
             <div className='col-md-3 info my-5'>
                 <h5>OUR INFORMATION</h5>
@@ -289,40 +289,24 @@ export function Footer(props:any){
             <div className='row'>
                 <div className='col-12'>
                     <h5>CORPORATE OFFICE:</h5>
-                    <p>Office No-1 Block N and O
-                    Badda Bazzar Sri Ganganagar
-                    Raj-335001</p>
+                    <p>No. 11/4, Pooja Garden,<br />
+                        Kalapatti Main Road,<br />
+                        Civil Aerodrome Post,<br />
+                        Coimbatore – 641014,<br />
+                        Tamil Nadu.
+                        </p>
                 </div>
                 <div className='col-12'>
                     <h5>REGISTERED ADDRESS:</h5>
-                    <p>Unit No.- 402 Spaze I tech Park, 
-                    Sector 49, Sohna Road, 
-                    Gurgaon-122018</p>
+                    <p>No.278. Periyar Nagar,<br />
+                    Railway Junction Road,<br />
+                    Rajagopalapuram Post,<br />
+                    Pudukkottai – 622003,<br />
+                    Tamil Nadu.</p>
                 </div>
             </div>
             </div>
         </div>
         </div>
-    )
-}
-export function Collapse(){
-    return(
-      <div>
-          <div className='atm-service'>
-            <p><button className='btn' type='button' data-bs-toggle='collapse' data-bs-target='#collapseEs' aria-expanded='false' aria-controls='collapseEs' >What is mATM?</button>
-              <div className='collapse' id='collapseEs'>
-              <div className='card card-body'> mATM, also known as a micro ATM is used by business correspondents (BCs) to provide cash withdrawal facilities to their customers. The card swipe facility on the device allows users to swipe their debit cards for cash withdrawals. While using a mATM, the business correspondent gives the requested cash to the user, which is then deposited into his wallet by the bank.</div>
-              </div><br />
-              <button className='btn' type='button' data-bs-toggle='collapse' data-bs-target='#collapseEs1' aria-expanded='false' aria-controls='collapseEs1' >How will mATM services help my business to grow?</button>
-              <div className='collapse' id='collapseEs1'>
-              <div className='card card-body'>Consumers don’t need to visit banks or find ATMs to draw cash. They can easily get cash from your shop via mATM service. Moreover, you will earn great commission on every transaction, and an increased customer footfall will also help your business grow further.</div>
-              </div><br />
-              <button className='btn' type='button' data-bs-toggle='collapse' data-bs-target='#collapseEs2' aria-expanded='false' aria-controls='collapseEs2' >How to start micro ATM business with RapiPay?</button>
-              <div className='collapse' id='collapseEs2'>
-              <div className='card card-body'>To get a RapiPay agent ID and start your micro ATM business, contact us at 0120-6366034 or meet our sales officer. You should have a physical store and documents like Aadhaar and PAN card.For more information, you can also fill out the Contact Us form and our team will get back to you.</div>
-              </div>
-            </p>
-          </div>
-      </div>
     )
 }

@@ -1,4 +1,4 @@
-import { Atmlist, Collapse, Compontent, Footer, Frequently, MicroATM, Navbar } from "./Component";
+import { Atmlist, Compontent, Footer, Frequently, MicroATM, Navbar } from "./Component";
 
 export function Micro(){
     return(
