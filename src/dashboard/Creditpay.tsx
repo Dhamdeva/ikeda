@@ -30,7 +30,7 @@ export function Creditpay(){
                     </ul>
                 </div>
                 <div className="col-md-5">
-                    <img className="img-fluid" src="https://www.braintreepayments.com/images/features/payment-methods/payment-methods.png" alt="." />
+                    <img className="img-fluid" src={require("../assets/images/credit.png")} alt="." />
                 </div>
             </div>
             <Footer />

@@ -11,7 +11,7 @@ export function Cms(){
             p={"PayPe Cash Management Services (CMS) is leveraging on this opportunity by bringing the benefits of this digital integration to its corporate and customers."}
             p1={'Home > Service > CMS'}
             className={"col-md-4"}
-            img={"https://www.seekpng.com/png/full/135-1358854_cash-management-cash-flow-management-icon.png"}
+            img={require("../assets/images/cms.png")}
             />
             <div className="row m-4">
                 <div className="col-md-6">
@@ -30,10 +30,10 @@ export function Cms(){
                     <p>Become a Retailer and earn upto RS 1 lac per month.</p>
                 </div>
                 <div className="col-md-6">
-                    <img className="img-fluid" src="https://atradiuscollections.com/image/02c-oar-trimed-transparrent.png" alt="." />
+                    <img className="img-fluid" src={require("../assets/images/cmss.png")} alt="." />
                 </div>
             </div>
-            <img className="img-fluid" src="http://desall-stuffs.s3.amazonaws.com/corporate/Corporate_Clients_InfoForClients_HowItWorks_Chart.png" alt="." />
+            <img className="img-fluid" src={require("../assets/images/cmsss.png")} alt="." />
             <Footer />
         </div>
     )

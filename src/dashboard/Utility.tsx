@@ -28,7 +28,7 @@ export function Utility(){
                 />
                 </div>
                 <div className="col-md-4">
-                    <img className="img-fluid" src="https://www.paisabazaar.com/wp-content/uploads/2021/03/feature-image.jpg" alt="." />
+                    <img className="img-fluid" src={require("../assets/images/utility.jpg")} alt="." />
                 </div>
             </div>
             <Footer />

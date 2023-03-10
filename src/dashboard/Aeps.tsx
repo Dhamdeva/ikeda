@@ -11,7 +11,7 @@ export function Aeps(){
             p={"PayPe AEPS service enables our customers for hassle free, secure and biometric authenticated cash withdraw, balance enquiry and mini statement from their UIDAI linked bank account"}
             p1={"Home > Service > Aeps"}
             className={"col-md-5"} 
-            img={"https://www.payworldindia.com/wp-content/uploads/2022/02/aeps.png"}
+            img={require("../assets/images/aepss.png")}
             />
             <div className="row m-3">
                 <div className="col-md-7">
@@ -31,10 +31,10 @@ export function Aeps(){
                     <p>Aadhaar Fingerprint Scanner and Aadhar Iris Scanner are most used to authenticate the biometric information of a person.</p>
                 </div>
                 <div className="col-md-5">
-                    <img className="img-fliud" src="https://cdn.telanganatoday.com/wp-content/uploads/2022/06/Aadhar.jpg" alt="." width={'100%'} />
+                    <img className="img-fliud" src={require("../assets/images/Aadhar.jpg")} alt="." width={'100%'} />
                 </div>
             </div>
-            <img className="img-fluid" src="https://selftechnology.in/wp-content/uploads/2021/02/aeps.png" alt="." />
+            <img className="img-fluid" src={require("../assets/images/aepsss.png")} alt="." />
             <div className="row justify-content-around my-5">
                 <div className="col-md-5">
                     <h3>Banking Services Offered by AePS</h3>

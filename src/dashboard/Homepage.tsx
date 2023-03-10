@@ -14,7 +14,7 @@ export function Homepage(){
             a={"Login"}
             a1={"Contact Us"}
             className={"col-md-7 my-5"}
-            img={"https://www.india-briefing.com/news/wp-content/uploads/2021/12/What-Trends-are-Leading-Indias-Fintech-Revolution.jpg"}            
+            img={require("../assets/images/fin.jpg")}            
          />
          <div className='ikede my-5'>
             <h1 className="text-center  iket my-5">Service</h1>
@@ -23,14 +23,14 @@ export function Homepage(){
          <div className='row justify-content-evenly atm mx-0 px-0 text-center my-5'>
                 <Atm 
                 className='col-md-5 my-3 aeps'
-                img={"https://www.ikedapl.com/wp-content/uploads/2021/10/Bills_Cards-06-1536x768.png"}
+                img={require("../assets/images/matm.png")}
                 h1={"mATM"}
                 p={"PayPe Pvt. Ltd is a leading service provider of micro ATM. We offer micro ATM service with software and mobile application."}
                 a={"Learn more"}
                 />
                 <Atm 
                 className='col-md-5 my-3 aeps'
-                img={"https://www.ikedapl.com/wp-content/uploads/2021/10/Bills_Cards-07-1536x768.png"}
+                img={require("../assets/images/aeps.png")}
                 h1={"AEPS"}
                 p={"PayPe Pvt. Offers Aadhar Enabled Payment software & AEPS API integration services for all your business needs all over India, our AEPS system offers many Feature: Balance Enquiry, Cash .."}
                 a={"Learn more"}
@@ -39,7 +39,7 @@ export function Homepage(){
          </div>
          <Finance 
          className={"col-md-5"}
-         img={"https://media.istockphoto.com/id/182792679/photo/full-length-of-business-colleagues-standing-together-against-white.jpg?s=612x612&w=0&k=20&c=Ca0tului1ZxkAjHY-qWPNN25fmQWMWFsdZlDPZmDGUs="}
+         img={require("../assets/images/profesh.jpg")}
          className1={"col-md-7 welcome my-5"}
          h1={"About"}
          h3={"Welcome to Finance Tech: PayPe"}
@@ -112,32 +112,32 @@ export function Homepage(){
             </div>
             <div className='row my-5 play mx-0'>
                 <Playstore 
-                img={"https://www.ikedapl.com/wp-content/uploads/2021/10/Website_Phone.png"}
+                img={require("../assets/images/mobile.png")}
                 h1={'Download Our App!'}
                 h6={"Download our pocket friendly Mobile App for all essential services"}
-                img1={"https://www.ikedapl.com/wp-content/uploads/2021/10/Playstore-Button.png"} />
+                img1={require("../assets/images/Playstore.png")} />
              </div>
          <h1 className='fw-bold'>Take a look at our partners</h1>
           <div className='row justify-content-around'>
             <Bank 
             class={'col-md-2'}
-            img={"https://www.ikedapl.com/wp-content/uploads/2021/10/Partners-Logos_0006_BBPS_Logo-1536x864.png"}
+            img={require("../assets/images/bbps.png")}
             />
             <Bank 
             class={'col-md-2'}
-            img={"https://www.ikedapl.com/wp-content/uploads/2021/10/Partners-Logos_0005_Redbus-1536x864.png"}
+            img={require("../assets/images/redbus.png")}
             />
             <Bank 
             class={'col-md-2'}
-            img={"https://www.ikedapl.com/wp-content/uploads/2021/10/Partners-Logos_0004_Pay-U-1536x864.png"}
+            img={require("../assets/images/payu.png")}
             />
             <Bank 
             class={'col-md-2'}
-            img={"https://www.ikedapl.com/wp-content/uploads/2021/10/Partners-Logos_0003_SBI-1536x864.png"}
+            img={require("../assets/images/sbi.png")}
             />
             <Bank 
             class={'col-md-2'}
-            img={"https://www.ikedapl.com/wp-content/uploads/2021/10/Partners-Logos_0000_airtel-bank-1536x864.png"}
+            img={require("../assets/images/airtel.png")}
             />
           </div>
           <div className='ikede my-5'>
@@ -148,21 +148,21 @@ export function Homepage(){
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best.”"}
-            img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
+            img={require("../assets/images/user.jpg")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best.”"}
-            img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
+            img={require("../assets/images/user.jpg")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best.”"}
-            img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
+            img={require("../assets/images/user.jpg")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />

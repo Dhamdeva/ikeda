@@ -18,7 +18,7 @@ export function Aboutus(){
             p={'Since its inception, PayPe Pvt. Ltd has been at the frontline of the payments revolution, an attitude that has helped it become a major worldwide leader in payments technology and transaction processing. We have been a genuine leader in the area, from developing next-generation payment gateways to mobile-based collections and payments systems AEPS & UPI.'}
             p1={'We assist our clients redraw the payment landscape by offering a value proposition of large-scale, social payments that are sensitive to market demand and have a lower cost of ownership. As a result, they have a well-defined strategy that will help them gain a large market share in the digital transaction ecosystem.'}
             className={"col-md-7"}
-            img={'https://herald.uohyd.ac.in/wp-content/uploads/2022/11/t-hub1-1280x640.jpg'}
+            img={require("../assets/images/thub.jpg")}
             />
             <div className="row justify-content-around  vision my-5 mx-0">
                 <Customer 
@@ -66,21 +66,21 @@ export function Aboutus(){
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best. ”"}
-            img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
+            img={require("../assets/images/user.jpg")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best. ”"}
-            img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
+            img={require("../assets/images/user.jpg")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best. ”"}
-            img={'https://www.ikedapl.com/wp-content/uploads/2021/09/user.jpg'}
+            img={require("../assets/images/user.jpg")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
@@ -95,21 +95,21 @@ export function Aboutus(){
             <div className="row text-center justify-content-around mx-0 px-0 founder">
                 <Founders
                 className={'col-md-4 mt-5 mani'}
-                img={"https://www.gtlaw.com/-/media/images/team/b/blum_lee/blum_lee_large.png?rev=71dd6e67744040db95c9e615323b6a70&sc_lang=en"}
+                img={require("../assets/images/manish.webp")}
                 h5={"Manish"}
                 p={"Founder and MD"}
                 p1={"Manish  is the MD, Founder of PayPe Private Ltd. and has a proven track record on building and leading technology product and service organization with a key focus on providing top-notch customer service and focus on client relationship management."}
                 icon={"fa-brands fa-linkedin-in"} />
                 <Founders
                 className={'col-md-4 mt-5 poor'}
-                img={"https://visto.ai/wp-content/uploads/2021/11/Josh-removebg-preview.png"}
+                img={require("../assets/images/pooran.png")}
                 h5={"Pooran"}
                 p={"Co-Founder and CEO"}
                 p1={"A perfect example of leading by example, Pooran  is responsible for the management of the overall operations and our company related decisions focused on customer’s welfare. He has been recognized as one of the top businessman by several business recognizers."}
                 icon={"fa-brands fa-linkedin-in"} />
                 <Founders
                 className={'col-md-4 mt-5 raje'}
-                img={"https://www.bradfordteaching.org/images/uploads/6/315/Luke.png"}
+                img={require("../assets/images/rajesh.png")}
                 h5={"Rajesh"}
                 p={"Co-Founder and CEO"}
                 p1={"Co-Founder Rajesh perfect blend of intelligence and politeness, has a proven track record of leading and building technology related products and service organization. He has a key focus on taking company to the new heights, with the social responsibility always going hand in hand."}

@@ -31,7 +31,7 @@ export function Flight(){
                 />
                 </div>
                 <div className="col-md-4">
-                    <img className="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Boeing_727_flight_control_surfaces.svg/700px-Boeing_727_flight_control_surfaces.svg.png" alt="." />
+                    <img className="img-fluid" src={require("../assets/images/flight.png")} alt="." />
                 </div>
             </div>
             <Footer />
