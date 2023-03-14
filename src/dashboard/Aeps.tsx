@@ -31,7 +31,7 @@ export function Aeps(){
                     <p>Aadhaar Fingerprint Scanner and Aadhar Iris Scanner are most used to authenticate the biometric information of a person.</p>
                 </div>
                 <div className="col-md-5">
-                    <img className="img-fliud" src={require("../assets/images/Aadhar.jpg")} alt="." width={'100%'} />
+                    <img className="img-fliud" src={require("../assets/images/Aadhar.png")} alt="." width={'100%'} />
                 </div>
             </div>
             <img className="img-fluid" src={require("../assets/images/aepsss.png")} alt="." />

@@ -28,7 +28,7 @@ export function Utility(){
                 />
                 </div>
                 <div className="col-md-4">
-                    <img className="img-fluid" src={require("../assets/images/utility.jpg")} alt="." />
+                    <img className="img-fluid" src={require("../assets/images/utility.png")} alt="." />
                 </div>
             </div>
             <Footer />

@@ -19,7 +19,7 @@ export function Recharge(){
             h4={"Mobile Recharge"}
             p={"PayPe.com is a leading pre-paid mobile recharge website in INDIA- On PayPe.com B2B Retailers and users can recharge prepaid mobile online. PayPe.com is the safest way to prepaid recharge for all Indian providers. Apart from GSM phone recharge, Online recharge is also available for CDMA prepaid mobile phones. PayPe.com has tied up with all major telecom service providers to bring convenience to you. We offer recharge for Airtel, Vodafone Idea, Reliance-Jio, Telenor, MTNL, BSNL and more. Why use PayPe.com B2b Wallet for Online Mobile Recharges? PayPe.com retailer Wallet gives you the ultimate freedom to be able to do your prepaid mobile recharge anytime and from anywhere. Whether you are travelling, on a holiday or at work, recharge as and when you wish."}
             className={"col-md-5"}
-            img={require("../assets/images/utilitybill.jpg")}
+            img={require("../assets/images/utilitybill.png")}
             />
             <div className="row justify-content-around">
             <Customer
@@ -38,7 +38,7 @@ export function Recharge(){
             h4={"Landline Bill Payment"}
             p={"Your landline bill payment is just a click away with PayPe.com Trusted by over 27 million users, Free Charge is your one-stop shop for online recharge! Paying bills every month can be a real problem at times, especially when you are running short of time or have urgent meetings. Sometimes you might even have to pay a late fee due to a missed deadline and now that you know, you are on the edge; you simply can’t pay it as the bill payment office is closed. So, what is the solution? Online bill payments come as a big relief! And landline bill payment is not an exception. PayPe.com greatly reduces your troubles in such extreme situations. We offer landline bill payment for major service providers including Airtel landline, Tata landline, and MTNL landline."}
             />
-            <img className="img-fluid" src={require("../assets/images/rec.jpg")} alt="." />
+            <img className="img-fluid" src={require("../assets/images/rec.png")} alt="." />
             <Footer />
         </div>
     )

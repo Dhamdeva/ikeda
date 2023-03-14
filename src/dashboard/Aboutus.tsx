@@ -18,7 +18,7 @@ export function Aboutus(){
             p={'Since its inception, PayPe Pvt. Ltd has been at the frontline of the payments revolution, an attitude that has helped it become a major worldwide leader in payments technology and transaction processing. We have been a genuine leader in the area, from developing next-generation payment gateways to mobile-based collections and payments systems AEPS & UPI.'}
             p1={'We assist our clients redraw the payment landscape by offering a value proposition of large-scale, social payments that are sensitive to market demand and have a lower cost of ownership. As a result, they have a well-defined strategy that will help them gain a large market share in the digital transaction ecosystem.'}
             className={"col-md-7"}
-            img={require("../assets/images/thub.jpg")}
+            img={require("../assets/images/thub.png")}
             />
             <div className="row justify-content-around  vision my-5 mx-0">
                 <Customer 
@@ -66,21 +66,21 @@ export function Aboutus(){
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best. ”"}
-            img={require("../assets/images/user.jpg")}
+            img={require("../assets/images/user.png")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best. ”"}
-            img={require("../assets/images/user.jpg")}
+            img={require("../assets/images/user.png")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best. ”"}
-            img={require("../assets/images/user.jpg")}
+            img={require("../assets/images/user.png")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
@@ -95,7 +95,7 @@ export function Aboutus(){
             <div className="row text-center justify-content-around mx-0 px-0 founder">
                 <Founders
                 className={'col-md-4 mt-5 mani'}
-                img={require("../assets/images/manish.webp")}
+                img={require("../assets/images/manish.png")}
                 h5={"Manish"}
                 p={"Founder and MD"}
                 p1={"Manish  is the MD, Founder of PayPe Private Ltd. and has a proven track record on building and leading technology product and service organization with a key focus on providing top-notch customer service and focus on client relationship management."}

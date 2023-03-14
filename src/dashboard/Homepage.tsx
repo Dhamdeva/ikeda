@@ -14,7 +14,7 @@ export function Homepage(){
             a={"Login"}
             a1={"Contact Us"}
             className={"col-md-7 my-5"}
-            img={require("../assets/images/fin.jpg")}            
+            img={require("../assets/images/fin.png")}            
          />
          <div className='ikede my-5'>
             <h1 className="text-center  iket my-5">Service</h1>
@@ -39,7 +39,7 @@ export function Homepage(){
          </div>
          <Finance 
          className={"col-md-5"}
-         img={require("../assets/images/profesh.jpg")}
+         img={require("../assets/images/profesh.png")}
          className1={"col-md-7 welcome my-5"}
          h1={"About"}
          h3={"Welcome to Finance Tech: PayPe"}
@@ -148,21 +148,21 @@ export function Homepage(){
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best.”"}
-            img={require("../assets/images/user.jpg")}
+            img={require("../assets/images/user.png")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best.”"}
-            img={require("../assets/images/user.jpg")}
+            img={require("../assets/images/user.png")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />
             <Bank 
             class={"col-10"}
             p={"“Services in PayPe is really good and the best part of PayPe is support service is best.”"}
-            img={require("../assets/images/user.jpg")}
+            img={require("../assets/images/user.png")}
             h5={"Jay shah"}
             p1={"self employed,Gurat"}
             />

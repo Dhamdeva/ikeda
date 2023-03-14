@@ -38,7 +38,7 @@ export function Serviceus(){
                 a={'Read More'}/>
                 <Atm
                 className={"col-md-4 my-3 micro mt-5"}
-                img={require("../assets/images/utility.jpg")}
+                img={require("../assets/images/utility.png")}
                 h4={"Utility Bill Payment"}
                 p={"We are a one stop solution for all your utility related payments. Pay safe and easily from our portal to have hassle-free transactions. We ensure greater reliability with direct interactions across banks, cards, and wallets."} 
                 a={'Read More'}/>
@@ -66,25 +66,25 @@ export function Serviceus(){
                 a={'Read More'} />
                 <Atm
                 className={"col-md-4 my-3 micro mt-5"}
-                img={require("../assets/images/hotel.webp")}
+                img={require("../assets/images/hotel.png")}
                 h4={"Hotel Booking"}
                 p={"Coming Soon"}
                 a={'Read More'} />
                 <Atm
                 className={"col-md-4 my-3 micro"}
-                img={require("../assets/images/insurance.jpg")}
+                img={require("../assets/images/insurance.png")}
                 h4={"Insurance"}
                 p={"Coming Soon"}
                 a={'Read More'} />
                 <Atm
                 className={"col-md-4 my-3 micro mut"}
-                img={require("../assets/images/mutual.jpeg")}
+                img={require("../assets/images/mutual.png")}
                 h4={"Mutual Fund"}
                 p={"Coming Soon"}
                 a={'Read More'} />
                 <Atm
                 className={"col-md-4 my-3 micro"}
-                img={require("../assets/images/loan.jpg")}
+                img={require("../assets/images/loan.png")}
                 h4={"Loan Re-Payment"}
                 p={"Coming Soon"} 
                 a={'Read More'}/>

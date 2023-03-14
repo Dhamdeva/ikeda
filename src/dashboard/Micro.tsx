@@ -24,9 +24,9 @@ export function Micro(){
             li1={"Balance Check/Enquiry"}
             li2={"Mini Statement"}
             className1={"col-md-4"}
-            img={require("../assets/images/payment.jpg")} 
+            img={require("../assets/images/payment.png")} 
             />
-            <img className="img-fluid " src={require("../assets/images/microatm.jpg")} alt="." />
+            <img className="img-fluid " src={require("../assets/images/microatm.png")} alt="." />
             <div className="row justify-content-around mx-0">
                 <Atmlist 
                 className={"col-md-5 my-4"}
