@@ -1,21 +1,25 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import { Serviceus } from "../dashboard/Serviceus";
-import { Aboutus } from "../dashboard/Aboutus";
-import { Homepage } from "../dashboard/Homepage";
-import { Micro } from "../dashboard/Micro";
-import { Aeps } from "../dashboard/Aeps";
-import { Recharge } from "../dashboard/Recharge";
-import { Utility } from "../dashboard/Utility";
-import { Cms } from "../dashboard/Cms";
-import { Creditpay } from "../dashboard/Creditpay";
-import { Flight } from "../dashboard/Flight";
-import { Contact } from "../dashboard/Contact";
-
-
+import { Aboutus } from "../view/about/Aboutus";
+import { Contact } from "../view/contact/Contact";
+import { Homepage } from "../view/home/Homepage";
+import { Privacypolicy } from "../view/Policy/Privacypolicy";
+import { Refundpolicy } from "../view/Policy/Refundpolicy";
+import { Terms } from "../view/Policy/Terms";
+import { Aeps } from "../view/services/Aeps";
+import { Bus } from "../view/services/Bus";
+import { Cms } from "../view/services/Cms";
+import { Creditpay } from "../view/services/Creditpay";
+import { Flight } from "../view/services/Flight";
+import { Hotel } from "../view/services/Hotel";
+import { Micro } from "../view/services/Micro";
+import { Mutual } from "../view/services/Mutual";
+import { Recharge } from "../view/services/Recharge";
+import { Serviceus } from "../view/services/Serviceus";
+import { Utility } from "../view/services/Utility";
 
 function MainNavigator() {
-  return ( 
+  return (
     <div className="App">
       <Routes>
         <Route path="/" element={<Homepage />} />
@@ -29,6 +33,12 @@ function MainNavigator() {
         <Route path="/cms" element={<Cms />} />
         <Route path="/creditpay" element={<Creditpay />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/bus" element={<Bus />} />
+        <Route path="/hotel" element={<Hotel />} />
+        <Route path="/mutual" element={<Mutual />} />
+        <Route path="/privacy" element={<Privacypolicy />} />
+        <Route path="/refund" element={<Refundpolicy />} />
+        <Route path="/terms" element={<Terms />} />
       </Routes>
     </div>
   );
