@@ -5,7 +5,7 @@ export function Contact() {
     <div className="container-fluid main">
       <Navbar />
       <Customer
-        className={"col-md-12 utility text-center"}
+        className={"col-md-12 contactus text-center"}
         h1={"Contact Us"}
         p={"Home > Contact us"}
       />

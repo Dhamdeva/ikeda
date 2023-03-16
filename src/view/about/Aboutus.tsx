@@ -13,7 +13,7 @@ export function Aboutus() {
     <div className="container-fluid main p-0">
       <Navbar />
       <Customer
-        className={"col-md-12 utility text-center my-2"}
+        className={"col-md-12 aboutus text-center my-2"}
         h1={"About us"}
         p={"Home > About us"}
       />
