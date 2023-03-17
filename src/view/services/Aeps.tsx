@@ -19,7 +19,7 @@ export function Aeps() {
         }
         p1={"Home > Service > Aeps"}
         className={"col-md-5"}
-        img={require("../../assets/images/aeps.png")}
+        img={require("../../assets/images/aep.png")}
       />
       </div>
       <div className="aeps-page col-lg-10  mx-auto">
